@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="add">Ajouter de nouveaux </string>
+    <string name="titlehint">Entrer le titre</string>
+    <string name="des">Entrez la description de la note</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
